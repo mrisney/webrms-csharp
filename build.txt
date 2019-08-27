@@ -1,0 +1,3 @@
+dotnet publish -c Release --self-contained -r osx.10.14-x64
+
+dotnet run
